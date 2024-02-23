@@ -1,0 +1,3 @@
+Escrever no terminal na forma de:
+
+py t2.py "1. Primeiro item, 2. Segundo item, 3. Terceiro item"
