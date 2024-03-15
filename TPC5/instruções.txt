@@ -1,0 +1,8 @@
+python .\TPC5A96296.py -> ligar o código
+
+depois de digitar e clicar no enter tens que digitar:
+
+LISTAR -> listar o stock
+MOEDA x ... -> colocar moedas
+SELECIONAR Y -> selecionar produto
+SAIR -> terminar execução
